@@ -1,5 +1,4 @@
 ![let's code](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)
-
 # shafiq makanadar
 
 **Things i learnt in this project**
